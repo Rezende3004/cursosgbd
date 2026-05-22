@@ -2,7 +2,7 @@
 
 Repositório pessoal de estudos e práticas da disciplina de **Sistemas de Gerenciamento de Banco de Dados (SGBD)**.
 
-Meu nome é **João Pedro da Costa Rezende**, sou estudante de TI na **PUC**, e utilizo este espaço para documentar minha evolução acadêmica em Banco de Dados, organizar consultas úteis e registrar exercícios práticos com foco em **SQL Server** e **modelagem de dados**.
+Meu nome é **João Pedro da Costa Rezende**, sou estudante de TI na **PUC** e na **UniEVANGÉLICA**, e utilizo este espaço para documentar minha evolução acadêmica em Banco de Dados, organizar consultas úteis e registrar exercícios práticos com foco em **SQL Server** e **modelagem de dados**.
 
 Este repositório está em constante evolução. A cada novo tópico estudado, busco registrar scripts, exemplos, anotações e práticas que ajudem a consolidar conceitos fundamentais de SGBD.
 
